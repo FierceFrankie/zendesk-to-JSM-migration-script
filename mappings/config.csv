@@ -1,0 +1,4 @@
+key,value
+default_priority,Medium
+default_status,Open
+transition_status,true

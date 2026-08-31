@@ -1,0 +1,7 @@
+zendesk_status,jsm_status
+new,Open
+open,In Progress
+pending,Waiting for customer
+hold,On Hold
+solved,Done
+closed,Done
